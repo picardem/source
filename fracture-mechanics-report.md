@@ -339,33 +339,6 @@ $$W_f = W_e + W_p = w_e \cdot Lt + w_p \cdot \beta \cdot L^2 \cdot t$$
 4. Совершенствование экспериментальных методов для более точного измерения параметров трещиностойкости
 5. Интеграцию различных подходов в единую многомасштабную методологию
 
-С появлением новых высокопрочных сталей и композитных материалов развитие методов оценки трещиностойкости продолжается, сочетая фундаментальные принципы, заложенные пионерами механики разрушения, с современными вычислительными и экспериментальными возможностями.
-
-## Библиография
-
-1. Griffith, A.A. (1921). The phenomena of rupture and flow in solids. Philosophical Transactions of the Royal Society of London, A221, 163-198.
-2. Irwin, G.R. (1957). Analysis of stresses and strains near the end of a crack traversing a plate. Journal of Applied Mechanics, 24, 361-364.
-3. Wells, A.A. (1961). Unstable crack propagation in metals: cleavage and fast fracture. Proceedings of the Crack Propagation Symposium, College of Aeronautics, Cranfield, Vol. 1, Paper 84.
-4. Dugdale, D.S. (1960). Yielding of steel sheets containing slits. Journal of the Mechanics and Physics of Solids, 8, 100-104.
-5. Rice, J.R. (1968). A path independent integral and the approximate analysis of strain concentration by notches and cracks. Journal of Applied Mechanics, 35, 379-386.
-6. Shih, C.F. (1981). Relationships between the J-integral and the crack opening displacement for stationary and extending cracks. Journal of the Mechanics and Physics of Solids, 29, 305-326.
-7. Wallin, K. (1999). The master curve method: a new concept for brittle fracture. International Journal of Materials and Product Technology, 14, 342-354.
-8. Gurson, A.L. (1977). Continuum theory of ductile rupture by void nucleation and growth: Part I – Yield criteria and flow rules for porous ductile media. Journal of Engineering Materials and Technology, 99, 2-15.
-9. Beremin, F.M. (1983). A local criterion for cleavage fracture of a nuclear pressure vessel steel. Metallurgical Transactions A, 14, 2277-2287.
-10. Cotterell, B., & Reddel, J.K. (1977). The essential work of plane stress ductile fracture. International Journal of Fracture, 13, 267-277.
-11. ASTM E1820 (2020). Standard Test Method for Measurement of Fracture Toughness.
-12. ASTM E1921 (2020). Standard Test Method for Determination of Reference Temperature, T0, for Ferritic Steels in the Transition Range.
-13. BS 7448-1 (1991). Fracture mechanics toughness tests — Part 1: Method for determination of KIc, critical CTOD and critical J values of metallic materials.
-14. ISO 12135 (2016). Metallic materials — Unified method of test for the determination of quasistatic fracture toughness.
-15. Zhu, X.K., & Joyce, J.A. (2012). Review of fracture toughness (G, K, J, CTOD, CTOA) testing and standardization. Engineering Fracture Mechanics, 85, 1-46.
-16. Anderson, T.L. (2017). Fracture Mechanics: Fundamentals and Applications, Fourth Edition. CRC Press.
-17. Pineau, A., Benzerga, A.A., & Pardoen, T. (2016). Failure of metals I: Brittle and ductile fracture. Acta Materialia, 107, 424-483.
-18. Needleman, A., & Tvergaard, V. (1984). An analysis of ductile rupture in notched bars. Journal of the Mechanics and Physics of Solids, 32, 461-490.
-19. Sutton, M.A., Orteu, J.J., & Schreier, H. (2009). Image Correlation for Shape, Motion and Deformation Measurements. Springer.
-20. Zerbst, U., Ainsworth, R.A., Beier, H.T., Pisarski, H., Zhang, Z.L., Nikbin, K., Nitschke-Pagel, T., Münstermann, S., Kucharczyk, P., & Klingbeil, D. (2014). Review on fracture and crack propagation in weldments – A fracture mechanics perspective. Engineering Fracture Mechanics, 132, 200-276.
-
-## Современные тенденции в исследованиях трещиностойкости сталей
-
 ### Новые экспериментальные методики
 
 #### Миниатюрные образцы и проблема масштабного эффекта
@@ -613,13 +586,3 @@ $$J_{IC} = J_{IC0} \cdot \exp(-k \cdot p)$$
 4. **Процедуры Engineering Critical Assessment (ECA)** для оценки допустимости дефектов в критических конструкциях.
 
 5. **Fitness-For-Service (FFS) оценки** для определения возможности дальнейшей эксплуатации конструкций с обнаруженными дефектами.
-
-## Заключение
-
-История развития нелинейной механики разрушения от основополагающих работ Гриффитса до современных многомасштабных моделей демонстрирует удивительный путь научного прогресса. Метод CTOD, предложенный Уэллсом, стал одним из наиболее значимых достижений, позволив преодолеть ограничения линейной механики разрушения и обеспечив инженеров практическим инструментом для оценки трещиностойкости вязких материалов.
-
-Современные исследования в области оценки трещиностойкости характеризуются мультидисциплинарным подходом, объединяющим достижения в области материаловедения, экспериментальной механики, вычислительных методов и искусственного интеллекта. Это позволяет разрабатывать все более точные и надежные методы прогнозирования поведения материалов с трещинами, что критически важно для обеспечения безопасности ответственных конструкций.
-
-Для высокопрочных сталей нового поколения разрабатываются специальные методики испытаний и критерии оценки, учитывающие их специфические особенности и условия эксплуатации. Интеграция экспериментальных и вычислительных методов позволяет существенно повысить точность прогнозирования трещиностойкости и расширить область применения этих материалов.
-
-В будущем можно ожидать дальнейшего развития многомасштабного моделирования, более широкого применения вероятностных подходов и методов машинного обучения, а также совершенствования экспериментальных методик, включая in-situ наблюдение за развитием трещин на микро- и наноуровне.
