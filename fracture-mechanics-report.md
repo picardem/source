@@ -271,7 +271,7 @@ $$\sigma = f(\delta)$$
 Метод существенной работы разрушения (Essential Work of Fracture, EWF) был предложен Броберргом и развит Кочэно и др. для характеристики вязкости разрушения тонколистовых материалов, где традиционные методы ЛМУР и НЛМР не применимы из-за отсутствия плоскодеформированного состояния.
 
 Согласно концепции EWF, полная работа разрушения ($W_f$) может быть разделена на две составляющие:
-
+[ Fracture toughness characterization of aluminum allay AA3003 using essential work of fracture concept https://goo.su/Wprnlm3]
 $$W_f = W_e + W_p = w_e \cdot Lt + w_p \cdot \beta \cdot L^2 \cdot t$$
 
 где:
