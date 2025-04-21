@@ -400,6 +400,7 @@ $$\Delta T = A \cdot (Φt)^n$$
 Современные исследования всё больше внимания уделяют вероятностным аспектам трещиностойкости. Признано, что вязкость разрушения имеет статистическую природу, особенно в переходной области температур.
 
 Трехпараметрическое распределение Вейбулла часто используется для описания разброса значений вязкости разрушения:
+[ Joint ICTP/IAEA Workshop on Irradiation-induced Embrittlement of Pressure Vessel Steels https://indico.ictp.it/event/a08189/session/6/contribution/4/material/0/0.pdf ]
 
 $$P_f = 1 - \exp\left[-\left(\frac{K - K_{min}}{K_0 - K_{min}}\right)^m\right]$$
 
