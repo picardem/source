@@ -345,6 +345,7 @@ $$W_f = W_e + W_p = w_e \cdot Lt + w_p \cdot \beta \cdot L^2 \cdot t$$
 - Методы неразрушающей оценки трещиностойкости
 
 Важной проблемой при использовании малоразмерных образцов является учет масштабного эффекта. Предложено несколько подходов для пересчета результатов, полученных на малоразмерных образцах, к стандартным значениям:
+[Cleavage fracture toughness at varying specimen size and crack depth HÅKAN JERNBERG https://kth.diva-portal.org/smash/get/diva2:1350066/FULLTEXT02.pdf]
 
 $$K_{Jc(1T)} = K_{min} + [K_{Jc(B)} - K_{min}] \cdot \left(\frac{B}{B_{1T}}\right)^{1/4}$$
 
