@@ -423,6 +423,7 @@ $$P_f = 1 - \exp\left[-\left(\frac{K - K_{min}}{K_0 - K_{min}}\right)^m\right]$$
 1. **Расширенный метод конечных элементов** (eXtended Finite Element Method, XFEM) позволяет моделировать рост трещины без перестроения сетки через введение специальных функций обогащения.
 
 Аппроксимация перемещений в XFEM:
+[Алгоритм метода X-FEM с представлением поверхности трещины на основе проекции ближайшей точки https://keldysh.ru/papers/2018/prep2018_42.pdf p19]
 
 $$u(x) = \sum_i N_i(x) u_i + \sum_j N_j(x) H(x) a_j + \sum_k N_k(x) \sum_{\alpha=1}^4 F_{\alpha}(x) b_k^{\alpha}$$
 
